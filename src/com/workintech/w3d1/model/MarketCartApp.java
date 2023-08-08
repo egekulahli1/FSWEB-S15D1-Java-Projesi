@@ -32,6 +32,7 @@ public class MarketCartApp {
                     System.out.println("Geçersiz seçim. Tekrar deneyin.");
                     break;
             }
+
         } while (choice != 0);
 
         scanner.close();
